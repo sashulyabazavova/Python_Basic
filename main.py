@@ -1,2 +1,1 @@
-print ("my name is Sasha")
-
+print("My name is Sasha")
